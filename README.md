@@ -1,2 +1,5 @@
 # FanMamba
-Fan-Shaped Mamba with Doubly Increasing Scan Radians
+
+Thanks for your attention.☺️
+
+Codes of FanMamba model have been open-sourced.
